@@ -10,7 +10,7 @@ export default FootballMatchesData = () => {
     setSelectedYear(year);
   };
 
-  var years = [2011, 2012, 2013, 2014, 2015, 2016, 2017];
+  var years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021];
   return (
     <div className='layout-row'>
       <div className='section-title'>Select Year</div>
